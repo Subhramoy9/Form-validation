@@ -1,0 +1,66 @@
+#sign {
+    display: flex;
+    padding-left: 50px;
+    ;
+    flex-direction: column;
+}
+
+#Credentials {
+    display: flex;
+    flex-direction: column;
+}
+
+#container {
+    display: flex;
+    padding-left: 300px;
+
+}
+
+#container1 {
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: azure;
+}
+
+#container2 {
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: azure;
+}
+
+#container3 {
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: azure;
+}
+
+#container4 {
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: azure;
+}
+
+input {
+    border-radius: 5px;
+}
+
+form {
+    padding: 20px;
+}
+
+#container {
+    background-color: papayawhip;
+    object-fit: cover;
+}
+
+button {
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+#logout {
+    height: 20px;
+    position: sticky;
+    margin-top: 13px;
+}
